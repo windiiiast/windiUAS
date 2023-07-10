@@ -1,0 +1,40 @@
+{
+    "contacts": [
+      {
+        "name": "sabrina",
+        "nim": "18735473",
+        "email": "sabrina@gmail.com",
+        "telp": "081738472648",
+        "tanggal": "13/09/2001",
+        "alamat": "Jakarta pusat",
+        "id": "efa8169be46"
+      },
+      {
+        "name": "tantri",
+        "nim": "183635271",
+        "email": "tantri@gmail.com",
+        "telp": "08521745957292",
+        "tanggal": "08/11/1999",
+        "alamat": "Jakarta timur",
+        "id": "fa8169be46d"
+      },
+      {
+        "id": "3157226454f",
+        "name": "nindia",
+        "nim": "1827351713",
+        "email": "nindia@gmail.com",
+        "telp": "085241727428",
+        "tanggal": "11/12/1998",
+        "alamat": "Jakarta"
+      },
+      {
+        "id": "157226454f7",
+        "name": "aziz",
+        "nim": "17363842",
+        "email": "aziz@gmail.com",
+        "telp": "08928493823",
+        "tanggal": "14/11/2003",
+        "alamat": "Jakarta"
+      }
+    ]
+  }
